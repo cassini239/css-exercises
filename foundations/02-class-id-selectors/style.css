@@ -1,0 +1,19 @@
+.BLOOD {
+    background-color: rgb(230, 141, 185);
+    font-family: Verdana, "DejaVu Sans", Sans-serif;
+}
+
+#my-boy-blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.THUNDER {
+    font-size: 24px;
+}
+
+#green {
+    background-color: rgb(148, 250, 148);
+    font-size: 24px;
+    font-weight: bold;
+}
